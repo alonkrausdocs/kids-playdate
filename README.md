@@ -19,7 +19,7 @@ Expo / React Native / TypeScript + Supabase. One codebase for Android and iOS. (
 
 ## Planned approach (proposals, not implemented features)
 
-- **Safety first:** children appear only as broad age bands - never names, photos or exact ages. Coarse location only (neighbourhood, never exact distance). Phone verification, report/block, content moderation and a named human moderator are planned capabilities to be built before any real users.
+- **Safety first:** children appear only as ages in years - never names, photos or birthdates. Coarse location only (neighbourhood, never exact distance). Phone verification, report/block, content moderation and a named human moderator are planned capabilities to be built before any real users.
 - **Phased with gates:** demo MVP > validation pilot > trust & safety hardening > store release > payments last. Each phase needs an explicit go.
 - **Compliance researched upfront:** Apple UGC moderation and in-app account deletion, Google Play child-safety standards, age restrictions and account-deletion requirements.
 
